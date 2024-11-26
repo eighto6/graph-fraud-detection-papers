@@ -23,7 +23,7 @@ A curated list of graph-based fraud, anomaly, and outlier detection papers & res
 |-------|--------|--------|--------|-----------|
 | 2024 | **Fund transfer fraud detection: Analyzing irregular transactions and customer relationships with self-attention and graph neural networks** | Expert Systems with Applications 2024 | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417424020785) |  Link |
 | 2024 | **UniGAD: Unifying Multi-level Graph Anomaly Detection** | NeurIPS 2024 | [Link](https://arxiv.org/pdf/2411.06427) |  [Link](https://github.com/lllyyq1121/UniGAD) |
-| 2024 | **Context Correlation Discrepancy Analysis for Graph Anomaly Detection** | IEEE TKDE 2024 | [Link](https://ieeexplore.ieee.org/abstract/document/10746358) |  Link |
+| 2024 | **Context Correlation Discrepancy Analysis for Graph Anomaly Detection** | IEEE TKDE 2024 | [Link](https://ieeexplore.ieee.org/abstract/document/10746358) |  [Link](https://github.com/eighto6/CoCo) |
 | 2024 | **ANOMIX: A Simple yet Effective Hard Negative Generation via Mixing for Graph Anomaly Detection** | arXiv 2024 | [Link](https://arxiv.org/pdf/2410.20310) |  [Link](https://github.com/missinghwan/ANOMIX) |
 | 2024 | **Bots Shield Fake News: Adversarial Attack on User Engagement based Fake News Detection** | CIKM 2024 | [Link](https://dl.acm.org/doi/abs/10.1145/3627673.3679583) |  Link |
 | 2024 | **Towards Fair Graph Anomaly Detection: Problem, Benchmark Datasets, and Evaluation** | CIKM 2024 | [Link](https://dl.acm.org/doi/abs/10.1145/3627673.3679754) |  [Link](https://github.com/nigelnnk/FairGAD) |
